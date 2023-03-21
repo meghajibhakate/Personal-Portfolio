@@ -18,8 +18,8 @@ body {
 .topnav {
     overflow: hidden;
     /* background-color: rgb(5 150 105); */
-    /* background-color: #3AAFA9; */
-    background: #2B7A78;
+    background-color: #08798e;
+    /* background: #2B7A78; */
     padding: 16px;
     box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .2);
 
@@ -69,6 +69,7 @@ body {
 
 
 .main-img{
+    
     width: 100%;
     height: 700px;
 }
@@ -138,7 +139,9 @@ body {
 }
 
 .name {
-    background-color: #2B7A78;
+    /* background-color: #2B7A78; */
+    background-color: #08798e;
+
     color: white;
     padding: 10px;
     font-size: 22px;
@@ -162,7 +165,8 @@ body {
 }
 
 .button-1 {
-    background-color: #2B7A78;
+    /* background-color: #2B7A78; */
+    background-color: #08798e;
     padding: 14px;
     font-size: 15px;
     color: white;
@@ -172,9 +176,9 @@ body {
 
 
 .button-1:hover {
-    background-color: #309e9b;
+    /* background-color: #309e9b; */
     color: #f2f2f2;
-    /* border: 2px solid rgb(21, 151, 114) */
+    background-color: #086a7c;
 
 }
 
@@ -217,7 +221,9 @@ body {
 }
 
 .div:hover {
-    background-color:  #6aa2a0;
+    /* background-color:  #6aa2a0; */
+    background-color: #08798e;
+
     color: white;
     font-weight: 400;
 }
@@ -263,7 +269,8 @@ body {
 }
 
 .certificate-div:hover {
-    background-color:  #6aa2a0;
+    /* background-color:  #6aa2a0; */
+    background-color: #08798e;
     color: white;
    
 }
@@ -275,7 +282,7 @@ border-radius: 10px;
 
 
 footer{
-    background-color: #94b8b8;
+    background-color: #3893a3;
     /* background-color:  rgb(15 118 110); */
     height: 250px;
     padding: 20px;
@@ -289,7 +296,7 @@ footer{
     padding-top: 20px;
     font-weight: 400;
     gap: 25px;
-    color: black;
+    color: white;
 }
 
 .created{

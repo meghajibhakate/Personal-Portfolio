@@ -31,7 +31,7 @@ body {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 36px;
+    padding: 14px 25px;
     text-decoration: none;
     font-size: 20px;
     font-weight: 400;
@@ -39,7 +39,7 @@ body {
 
 .topnav a:hover {
     background-color: #ddd;
-    border-radius: 20px;
+    border-radius: 10px;
     color: black;
 }
 .topnav a {
@@ -201,8 +201,9 @@ body {
 }
 
 .div {
-    background: rgba(241, 244, 243, 0.902);
-    /* box-shadow: 0 1px 2px 0 rgb(50 55 60 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%); */
+    /* background: rgba(241, 244, 243, 0.902); */
+    background-color: rgb(229, 228, 228);
+    box-shadow: 0 1px 2px 0 rgb(50 55 60 / 30%), 0 1px 3px 1px rgb(60 64 67 / 15%);
     /* background-color: #2B7A78; */
     width: 350px;
     padding: 10px;
